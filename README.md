@@ -2,7 +2,7 @@
 
 개발환경
 1. IDE : IntelliJ IDEA Community
-2. Spring Boot 2.6.13
+2. Spring Boot 3.2.3
 3. JDK 21
 4. mySql
 5. Spring Data JPA
