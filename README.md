@@ -1,10 +1,14 @@
 # 개발환경
 1. IDE: IntelliJ IDEA Community
-2. Spring Boot 2.6.13 
-3. JDK 11
-4. mysql
-5. Spring Data JPA
-6. Thymeleaf
+2. Spring Boot 3.2.3 
+3. JDK 21
+4. Java 17
+5. Gradle-Groovy / Jar
+6. mysql 8.0.36
+7. Spring Data JPA
+8. Thymeleaf
+9. Lombok
+10. Spring Web
 
 # 게시판 주요기능 
 1. 글쓰기(/board/save)
